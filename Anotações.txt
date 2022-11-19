@@ -16,3 +16,7 @@ int somar (int numeroUm, int numeroDois)
 
 Identação:
 Escrever o código em forma de hierárquica para facilitar visualização e entendimento do programa.
+
+Tipos de variaveis:
+Primitivos:
+int, byte, short, long, float, double, boolean e char
