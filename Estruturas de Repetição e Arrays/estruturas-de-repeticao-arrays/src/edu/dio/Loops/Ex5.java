@@ -9,9 +9,10 @@ public class Ex5 {
         int numero;
         System.out.println("Insira um numero para a tabuada: ");
         numero = scan.nextInt();
-
-        for (int x = 1; x <=10; x++){
-            System.out.println(numero + " X " + x + " = " + (numero*x));
+        System.out.println("Tabuada do " + numero + ":");
+        for (int i = 1; i <=10; i++){
+            System.out.println(numero + " X " + i + " = " + (numero*i));
         }
+        scan.close();
     }
 }
