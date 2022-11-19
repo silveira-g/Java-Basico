@@ -20,3 +20,15 @@ Escrever o código em forma de hierárquica para facilitar visualização e ente
 Tipos de variaveis:
 Primitivos:
 int, byte, short, long, float, double, boolean e char
+
+Operadores:
+Operador de atribuição: é representado pelo símbolo de igual (=)
+Serve para atribuir um valor a uma variável.
+
+Operadores aritméticos: adição (+) subtração (-) multiplicação (*) divisão (/) modulo (%)
+o operador de adição quando utilizado com variáveis strings irá realizar a concatenação de textos.
+
+Operador unários: operador de deixar numero positivo (+), de negar um numero (-), incrementar numero (++), decrementar numero (--) ou negar uma expressão booleana(!)
+
+Operador ternário: forma resumida para definir uma condição (?)
+
