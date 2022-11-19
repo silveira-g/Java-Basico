@@ -11,6 +11,6 @@ public class MinhaClasse {
         String nome = scanner.next();
 
         System.out.println("Me chamo " + nome + " e tenho " + altura + "cm");
-
+        scanner.close();
     }
 }

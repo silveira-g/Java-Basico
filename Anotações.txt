@@ -46,7 +46,8 @@ Escopo: o ambiente uma variável pode ser acessada.
 Palavras reservadas:
 Identificadores da linguagem que já possuem finalidade portanto não podem ser usadas para criar variáveis metodos ou classes.
 
-Java Doc:
+Scanner:
+Classe que permite interação mais assertiva do usuario.
 
 
 
