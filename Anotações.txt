@@ -41,5 +41,13 @@ Ex:
 int somar (int numeroUm, int numeroDois)
 Caso o método não retorne valor ele será representado por void.
 
+Escopo: o ambiente uma variável pode ser acessada.
+
+Palavras reservadas:
+Identificadores da linguagem que já possuem finalidade portanto não podem ser usadas para criar variáveis metodos ou classes.
+
+Java Doc:
+
+
 
 
