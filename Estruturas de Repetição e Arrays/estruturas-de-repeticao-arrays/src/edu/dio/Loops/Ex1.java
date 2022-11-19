@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ex1 {
     public static void main(String[] args) {
+      //faça um programa que solicite um nome e idade e pare quando o nome for igual a 0
         Scanner scanner = new Scanner(System.in);
 
         String nome;

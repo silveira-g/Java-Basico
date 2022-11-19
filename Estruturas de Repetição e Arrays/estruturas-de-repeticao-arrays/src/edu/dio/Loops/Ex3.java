@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ex3 {
     public static void main(String[] args) {
+        //faça um programa que solicite 5 numeros e mostre o maior numero digitado e a media deles
         Scanner scan = new Scanner(System.in);
         double media=0;
         int contador=0;
@@ -20,7 +21,8 @@ public class Ex3 {
             }
         }
         while (contador<5);
-        media /= contador;
+        media /= 5;
         System.out.println("Media: "+ media + " Maior numero: " + maior);
+        scan.close();
     }
 }
