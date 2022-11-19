@@ -1,0 +1,5 @@
+O nome da classe tem que estar de acordo com o nome do arquivo.
+Todo o código da classe fica dentro das chaves { }; existem exceções que são os métodos.
+Todos os arquivos a serem criados as primeiras letras sempre em MAIUSCULO.
+Se a classe for executável, precisa ter um método especial denominado MAIN
+Metodo main segue um padrão: public static void main (String[] args) {}
