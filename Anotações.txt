@@ -49,6 +49,10 @@ Identificadores da linguagem que já possuem finalidade portanto não podem ser 
 Scanner:
 Classe que permite interação mais assertiva do usuario.
 
+Arrays:
+Objeto utilizado para armazenar dados sequencialmente do mesmo tipo.
+
+
 
 
 
