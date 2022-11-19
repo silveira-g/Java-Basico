@@ -8,7 +8,6 @@ public class Ex2 {
         //faça um programa que leia um vetor de consoantes de 6 caracters, e diga quantas consoantes foram lidas. imprima as consoates.
         Scanner scan = new Scanner(System.in);
         String[] consoantes = new String[6]; 
-        int contador=0;
 
         for (int i = 0; i<consoantes.length; i++ ){ 
             System.out.println("Escreva uma letra");
