@@ -20,8 +20,8 @@ public class Ex2 {
                 (letra.equalsIgnoreCase("u")))) 
             consoantes[i] = letra;                      
         }
-        for (int i = 0; i <consoantes.length; i++){ 
-            System.out.print(consoantes[i] + " ");
+        for (String consoante : consoantes){
+            System.out.print(consoante + " ");
         }
         scan.close();
     }
