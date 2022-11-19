@@ -8,12 +8,6 @@ Todos os arquivos a serem criados as primeiras letras sempre em MAIUSCULO.
 Toda variável tem que ser escrita em letra minuscula, mas se for composta a primeira letra da próxima palavra é maiuscula. Esta prática se chama camelCase Ex: minhaVariavel
 Caso a variável seja constante, é criado com a denominação final e o nome da variável toda MAIUSCULA. Ex final String BR = 'Brasil";
 
-Declaração de métodos:
-TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
-Ex:
-int somar (int numeroUm, int numeroDois)
-
-
 Identação:
 Escrever o código em forma de hierárquica para facilitar visualização e entendimento do programa.
 
@@ -31,4 +25,21 @@ o operador de adição quando utilizado com variáveis strings irá realizar a c
 Operador unários: operador de deixar numero positivo (+), de negar um numero (-), incrementar numero (++), decrementar numero (--) ou negar uma expressão booleana(!)
 
 Operador ternário: forma resumida para definir uma condição (?)
+Ex: a==b ? c : d
+
+Ooperador relacional: >, <, >=, <=, == etc
+
+Operadores lógicos: && (e) || (ou)
+
+
+Métodos:
+Correspondem a funçoes ou sub-rotinas dentro de classes.
+
+Declaração de métodos:
+TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+Ex:
+int somar (int numeroUm, int numeroDois)
+Caso o método não retorne valor ele será representado por void.
+
+
 
