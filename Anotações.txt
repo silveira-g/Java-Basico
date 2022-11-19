@@ -1,5 +1,10 @@
-O nome da classe tem que estar de acordo com o nome do arquivo.
+
 Todo o código da classe fica dentro das chaves { }; existem exceções que são os métodos.
-Todos os arquivos a serem criados as primeiras letras sempre em MAIUSCULO.
 Se a classe for executável, precisa ter um método especial denominado MAIN
 Metodo main segue um padrão: public static void main (String[] args) {}
+
+Padrão de escrita:
+O nome da classe tem que estar de acordo com o nome do arquivo.
+Todos os arquivos a serem criados as primeiras letras sempre em MAIUSCULO.
+Toda variável tem que ser escrita em letra minuscula, mas se for composta a primeira letra da próxima palavra é maiuscula. Esta prática se chama camelCase Ex: minhaVariavel
+Caso a variável seja constante, é criado com a denominação final e o nome da variável toda MAIUSCULA. Ex final String BR = 'Brasil";
